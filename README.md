@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 À propos de moi<br><br>🎯 En reconversion vers le développement informatique, je me forme actuellement au développement Python avec OpenClassrooms.<br>💻 Je développe mes compétences à travers des projets pratiques, avec un intérêt particulier pour la création d’applications et de sites web.<br>🚀 Motivé et curieux, je cherche à progresser continuellement et à construire des projets concrets pour enrichir mon portfolio.<br><br><br>🌱 J’apprends actuellement<br><br>Python<br>Développement d’applications<br>Création de sites web<br>Git & GitHub<br><br>🤝 Ouvert à<br><br>Collaborations<br>Projets de formation<br>Échanges avec d’autres développeurs
+👋 À propos de moi<br><br>🎯 je me forme actuellement au développement Python .<br>💻 Je développe mes compétences à travers des projets pratiques, avec un intérêt particulier pour la création d’applications et de sites web.<br>🚀 Motivé et curieux, je cherche à progresser continuellement et à construire des projets concrets pour enrichir mon portfolio.<br><br><br>🌱 J’apprends actuellement<br><br>Python<br>Développement d’applications<br>Création de sites web<br>Git & GitHub<br><br>🤝 Ouvert à<br><br>Collaborations<br>Projets de formation<br>Échanges avec d’autres développeurs
 
 
 ## 🌐 Socials:
